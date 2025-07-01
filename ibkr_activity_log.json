@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-06-30T11:37:57.586620",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:07.620025",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:17.638127",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:27.662525",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:37.678850",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:47.694966",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:38:57.709793",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:40:33.953621+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:40:44.372298+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:40:54.554324+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:41:04.731138+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:41:14.889214+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:41:25.065515+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  },
+  {
+    "timestamp": "2025-06-30T11:41:35.253033+00:00",
+    "event_type": "Error",
+    "description": "Failed to connect or monitor: There is no current event loop in thread 'Thread-1 (monitor_ibkr)'.",
+    "raw_data": {}
+  }
+]
